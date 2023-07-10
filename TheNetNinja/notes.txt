@@ -23,3 +23,9 @@ Inside 'index.js' we import the 'App' component and use it inside the rendering;
 #4 - Dynamic Values in Templates
 You can't output booleans and objects;
 Use the Dynamic Values as attribute values in element tags;
+---------------------------------------------------------------------------------------------------------
+#5 - Multiple Components
+Component Tree:
+    Root component;
+    Nesting components;
+'sfc' + 'tab' == creates a stateless functional component
