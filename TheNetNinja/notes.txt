@@ -42,3 +42,11 @@ Hook:
     Starts with the word use;
     Ex.: useState
         Gives a way to make a reactive value and also provides us with a way to change that value whenever we want 
+---------------------------------------------------------------------------------------------------------
+#10 - Outputting Lists
+Map Method:
+    Cycles through an array and it can do something with each item in the array
+    Ex.: We want to return a bit of template for each item as we iterate through each one and then that template is going to be output to the browser;
+        For each iteration, as we cycle through these we get access to the item we're currently iterating.
+Key property:
+    React uses to keep track of each item in the DOM as it outputs it;
