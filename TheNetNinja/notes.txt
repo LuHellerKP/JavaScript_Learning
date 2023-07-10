@@ -2,3 +2,4 @@ https://github.com/iamshaunjp/Complete-React-Tutorial
 
 ---------------------------------------------------------------------------------------------------------
 #2
+Setup and explanation of some files and components;
