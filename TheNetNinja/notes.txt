@@ -1,5 +1,22 @@
 https://github.com/iamshaunjp/Complete-React-Tutorial 
 
 ---------------------------------------------------------------------------------------------------------
-#2
+#2 - Creating a React Application
 Setup and explanation of some files and components;
+
+---------------------------------------------------------------------------------------------------------
+#3 - Components and Templates
+Components:
+    Building blocks/ beating heart of any react app;
+    One app has several different component, and each component is a self-contained section of content;
+    Constains:
+        Their own templates;
+        Their own logic;
+    It is a function and we always must return something inside that function, and generally that is going to be a jsx template;
+
+JSX:
+    Allow us to create some html style templates and components;
+    className == class;
+
+At the end of the App.js file we always export our component function so that we can use it in other files;
+Inside 'index.js' we import the 'App' component and use it inside the rendering;
