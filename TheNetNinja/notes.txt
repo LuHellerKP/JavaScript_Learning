@@ -29,3 +29,6 @@ Component Tree:
     Root component;
     Nesting components;
 'sfc' + 'tab' == creates a stateless functional component
+---------------------------------------------------------------------------------------------------------
+#6 - Adding Styles
+Copy Paste the styles from github
