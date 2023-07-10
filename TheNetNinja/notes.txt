@@ -34,3 +34,11 @@ Component Tree:
 Copy Paste the styles from github
 ---------------------------------------------------------------------------------------------------------
 #7 - Click Events
+---------------------------------------------------------------------------------------------------------
+#8 - Using State (useState hook)/#9 - Intro to React Dev Tools 
+State of a component --> data being used in that component at that point in time;
+Hook:
+    Special type of function that does a certain job;
+    Starts with the word use;
+    Ex.: useState
+        Gives a way to make a reactive value and also provides us with a way to change that value whenever we want 
