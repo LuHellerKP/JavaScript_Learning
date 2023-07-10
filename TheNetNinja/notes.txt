@@ -50,3 +50,5 @@ Map Method:
         For each iteration, as we cycle through these we get access to the item we're currently iterating.
 Key property:
     React uses to keep track of each item in the DOM as it outputs it;
+---------------------------------------------------------------------------------------------------------
+#11 - Props
