@@ -52,3 +52,7 @@ Key property:
     React uses to keep track of each item in the DOM as it outputs it;
 ---------------------------------------------------------------------------------------------------------
 #11 - Props
+It's a way to pass data from one component (parent) into a child component;
+Advantages:
+    Makes the component more reusable;
+    Allows to use the data in the preview component later;
